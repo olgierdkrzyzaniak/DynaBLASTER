@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/abel465/DynaBLASTER)](https://repl.it/github/abel465/DynaBLASTER)
+
 # DynaBLASTER
 A Python clone of Bomberman
 
